@@ -20,3 +20,14 @@ The slope of the multiple linear regression model is not considered to be zero s
 *3. Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?*
 
 The linear model predicts mpg of MechaCar prototypes effectively since the r-squared value is 0.71, meanihng about 71% of the variablilty of mpg is explained using this linear model, and the p-value is significant.
+
+## Summary Statistics on Suspension Coils
+
+*1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?*
+
+![](resources/deliverable2_total_summary.PNG)
+
+
+![](resources/deliverable2_lot_summary.PNG)
+
+
