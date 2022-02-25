@@ -37,6 +37,16 @@ The current total manufacturing data meets the design specifications with a vari
 
 However, the current lot manufacturing data shows that Manufactoring Lot 3 does not meet the design specifications with a variance of 170.23. Manufacturing Lots 1 and 2 meet the design design specifications, so action only needs to be taken at Manufactoring Lot 3.
 
+## T-Tests on Suspension Coils
+
+![](resources/deliverable3_all_lots_ttest.PNG)
+
+
+![](resources/deliverable3_Lot1_ttest.PNG)
+
+![](resources/deliverable3_Lot2_ttest.PNG)
+
+![](resources/deliverable3_Lot3_ttest.PNG)
 
 
 
