@@ -35,18 +35,23 @@ The current total manufacturing data meets the design specifications with a vari
 
 ![Total Summary](resources/deliverable2_lot_summary.PNG)
 
-However, the current lot manufacturing data shows that Manufactoring Lot 3 does not meet the design specifications with a variance of 170.23. Manufacturing Lots 1 and 2 meet the design design specifications, so action only needs to be taken at Manufactoring Lot 3.
+However, the current lot manufacturing data shows that Manufactoring Lot 3 does not meet the design specifications with a variance of 170.23. Manufacturing Lots 1 and 2 meet the design design specifications, so corrective action is only needed at Manufactoring Lot 3.
 
 ## T-Tests on Suspension Coils
 
 ![](resources/deliverable3_all_lots_ttest.PNG)
 
+The t-test comparing the mean PSI across all manufacturing lots to the population mean of 1,500 pounds per square inch shows that the sample mean (1498.78) is statistically different.
 
 ![](resources/deliverable3_Lot1_ttest.PNG)
 
+The t-test comparing the mean PSI for Lot 1 to the population mean of 1,500 pounds per square inch shows that the sample mean (1500) is statistically equivalent to the population mean.
+
 ![](resources/deliverable3_Lot2_ttest.PNG)
+
+The t-test comparing the mean PSI for Lot 2 to the population mean of 1,500 pounds per square inch shows that the sample mean (1500.2) is statistically different.
 
 ![](resources/deliverable3_Lot3_ttest.PNG)
 
-
+The t-test comparing the mean PSI for Lot 3 to the population mean of 1,500 pounds per square inch shows that the sample mean (1496.14) is statistically different.
 
