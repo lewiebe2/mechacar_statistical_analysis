@@ -55,3 +55,5 @@ The t-test comparing the mean PSI for Lot 2 to the population mean of 1,500 poun
 
 The t-test comparing the mean PSI for Lot 3 to the population mean of 1,500 pounds per square inch shows that the sample mean (1496.14) is statistically different.
 
+## Study Design: MechaCar vs Competition
+
