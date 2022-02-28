@@ -57,3 +57,22 @@ The t-test comparing the mean PSI for Lot 3 to the population mean of 1,500 poun
 
 ## Study Design: MechaCar vs Competition
 
+*What metric or metrics are you going to test?*
+
+My statistical study will test the United States cost of the MechaCar against the competition vehicles in the same size class and model year, since cost is typically the highest interest to a consumer.
+
+*What is the null hypothesis or alternative hypothesis?*
+
+**Null hypothesis:** There is no statistical difference between the observed United States MechaCar sample mean and its presumed vehicle size class population mean cost in the same model year.
+
+**Alternative hypothesis:** There is a statistical difference between the observed United States MechaCar sample mean and its presumed vehicle class population mean cost in the same model year.
+
+*What statistical test would you use to test the hypothesis? And why?*
+
+My statistical study will use the one-sided t-test to compare the United States MechaCar mean cost (sample) to the United States mean cost for all vehicles in the size class (population) in the same model year. The one-sided t-test is used to help consumers evaluate the cost of the MechaCar versus competitors’ cars in the same vehicle size class and model year. 
+
+*What data is needed to run the statistical test?*
+
+The data needed to run the statistical test is the cost of the MechaCar across the United States and the cost of competitors cars in the same vehicle size class and model year across the United States.
+
+
